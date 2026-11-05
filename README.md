@@ -54,6 +54,7 @@ The de-duplication set is in memory; use Redis or your database in production.
 - NXTL for Business: https://nxtlsim.com/for-business/
 - API reference: https://nxtlsim.com/nxtl-api-reference/
 - Low-balance polling instead of webhooks: [nxtl-balance-alerts](https://github.com/nxtlsim/nxtl-balance-alerts)
+- NXTL eSIM SDKs (TypeScript and Python): [repo](https://github.com/nxtlsim/nxtl-esim-sdk) · [npm](https://www.npmjs.com/package/@nxtlsim/esim-sdk) · [PyPI](https://pypi.org/project/nxtl-esim/)
 
 ## License
 MIT © NXTL eSIM. This repository is maintained by NXTL eSIM.
